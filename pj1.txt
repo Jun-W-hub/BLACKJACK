@@ -1,0 +1,5 @@
+project1 report
+In my program
+1,I used a function "card_name", to show the card name not only the card's value,because I believe it more like the real game.
+2,All the program when we need the player enter anything, the computer can accept both the capital and the lowercase.If the enter word is not ture, I used the loop make player enter again.
+3,Because everytime when the player enter some word, the "new line" will impact the next time when the player enter something.I used a character "x"  to eliminate the"new line".
